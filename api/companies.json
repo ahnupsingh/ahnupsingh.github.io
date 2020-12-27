@@ -1,814 +1,2662 @@
-{
-  "ADBL": {
-    "name": "Agriculture Development Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "BOKL": { "name": "Bank of Kathmandu Ltd.", "sector": "Commercial Banks" },
-  "CCBL": {
-    "name": "Century Commercial Bank Ltd.",
-    "sector": "Commercial Banks"
-  },
-  "CZBIL": {
-    "name": "Citizen Bank International Limited",
-    "sector": "Commercial Banks"
-  },
-  "CBL": { "name": "Civil Bank Ltd", "sector": "Commercial Banks" },
-  "EBL": { "name": "Everest Bank Limited", "sector": "Commercial Banks" },
-  "GBIME": {
-    "name": "Global IME Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "HBL": { "name": "Himalayan Bank Limited", "sector": "Commercial Banks" },
-  "JBNL": { "name": "Janata Bank Nepal Ltd.", "sector": "Commercial Banks" },
-  "KBL": { "name": "Kumari Bank Limited", "sector": "Commercial Banks" },
-  "LBL": { "name": "Laxmi Bank Limited", "sector": "Commercial Banks" },
-  "MBL": {
-    "name": "Machhapuchhre Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "MEGA": { "name": "Mega Bank Nepal Ltd.", "sector": "Commercial Banks" },
-  "NABIL": { "name": "Nabil Bank Limited", "sector": "Commercial Banks" },
-  "NBB": {
-    "name": "Nepal Bangladesh Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "NBL": { "name": "Nepal Bank Limited", "sector": "Commercial Banks" },
-  "NCCB": {
-    "name": "Nepal Credit And Commercial Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "NIB": {
-    "name": "Nepal Investment Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "SBI": { "name": "Nepal SBI Bank Limited", "sector": "Commercial Banks" },
-  "NICA": { "name": "NIC Asia Bank Ltd.", "sector": "Commercial Banks" },
-  "NMB": { "name": "NMB Bank Limited", "sector": "Commercial Banks" },
-  "PRVU": { "name": "Prabhu Bank Limited", "sector": "Commercial Banks" },
-  "PCBL": {
-    "name": "Prime Commercial Bank Ltd.",
-    "sector": "Commercial Banks"
-  },
-  "SANIMA": { "name": "Sanima Bank Limited", "sector": "Commercial Banks" },
-  "SBL": { "name": "Siddhartha Bank Limited", "sector": "Commercial Banks" },
-  "SCB": {
-    "name": "Standard Chartered Bank Limited",
-    "sector": "Commercial Banks"
-  },
-  "SRBL": { "name": "Sunrise Bank Limited", "sector": "Commercial Banks" },
-  "BHBL": {
-    "name": "Bhargav Bikash Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "CORBL": {
-    "name": "Corporate Development Bank Limited",
-    "sector": "Development Banks"
-  },
-  "DBBL": {
-    "name": "Deva Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "EDBL": {
-    "name": "Excel Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "GDBL": {
-    "name": "Gandaki Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "GBBL": {
-    "name": "Garima Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "GRDBL": {
-    "name": "Green Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "HAMRO": { "name": "Hamro Bikas Bank Ltd.", "sector": "Development Banks" },
-  "JBBL": {
-    "name": "Jyoti Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "KEBL": {
-    "name": "Kabeli Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "KSBBL": {
-    "name": "Kamana Sewa Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "KADBL": {
-    "name": "Kanchan Development Bank Limited",
-    "sector": "Development Banks"
-  },
-  "KNBL": { "name": "Kankai Bikas Bank Ltd.", "sector": "Development Banks" },
-  "KRBL": {
-    "name": "Karnali Development Bank Limited",
-    "sector": "Development Banks"
-  },
-  "LBBL": {
-    "name": "Lumbini Bikas Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "MLBL": {
-    "name": "Mahalaxmi Bikas Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "MDB": {
-    "name": "Miteri Development Bank Limited",
-    "sector": "Development Banks"
-  },
-  "MNBBL": {
-    "name": "Muktinath Bikas Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "NABBC": {
-    "name": "Narayani Development Bank Limited",
-    "sector": "Development Banks"
-  },
-  "NCDB": {
-    "name": "Nepal Community Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "NIDC": {
-    "name": "NIDC Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "ODBL": {
-    "name": "Om Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "PURBL": {
-    "name": "Purnima Bikas Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "SHBL": { "name": "Sahara Bikas Bank Ltd.", "sector": "Development Banks" },
-  "SBBLJ": {
-    "name": "Sahayogi Bikas Bank Limited",
-    "sector": "Development Banks"
-  },
-  "SAPDBL": {
-    "name": "Saptakoshi Development Bank Ltd",
-    "sector": "Development Banks"
-  },
-  "SADBL": {
-    "name": "Shangrila Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "SHINE": {
-    "name": "Shine Resunga Development Bank Ltd.",
-    "sector": "Development Banks"
-  },
-  "SINDU": {
-    "name": "Sindhu Bikash Bank Ltd",
-    "sector": "Development Banks"
-  },
-  "TMDBL": {
-    "name": "Tinau Mission Development Bank Limited",
-    "sector": "Development Banks"
-  },
-  "BFC": { "name": "Best Finance Company Ltd.", "sector": "Finance" },
-  "CMB": {
-    "name": "Capital Merchant Bank & Finance Co. Ltd.",
-    "sector": "Finance"
-  },
-  "CFCL": { "name": "Central Finance Co. Ltd.", "sector": "Finance" },
-  "CEFL": { "name": "City Express Finance Co. Limited", "sector": "Finance" },
-  "CFL": { "name": "Crystal Finance Ltd.", "sector": "Finance" },
-  "GFCL": { "name": "Goodwill Finance Co. Ltd.", "sector": "Finance" },
-  "GMFIL": {
-    "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
-    "sector": "Finance"
-  },
-  "GUFL": { "name": "Gurkhas Finance Ltd.", "sector": "Finance" },
-  "HATH": { "name": "Hathway Finance Company Limited", "sector": "Finance" },
-  "HFL": {
-    "name": "Himalayan Finance Limited (Bittiya Sanstha)",
-    "sector": "Finance"
-  },
-  "ICFC": { "name": "ICFC Finance Limited", "sector": "Finance" },
-  "JFL": { "name": "Janaki Finance Ltd.", "sector": "Finance" },
-  "JEFL": { "name": "Jebils Finance Ltd.", "sector": "Finance" },
-  "LFC": { "name": "Lalitpur Finance Ltd.", "sector": "Finance" },
-  "MFIL": { "name": "Manjushree Finance Ltd.", "sector": "Finance" },
-  "MPFL": {
-    "name": "Multipurpose Finance Company Limited",
-    "sector": "Finance"
-  },
-  "NFS": { "name": "Nepal Finance Ltd.", "sector": "Finance" },
-  "NSM": { "name": "Nepal Share Markets Ltd.", "sector": "Finance" },
-  "PFL": { "name": "Pokhara Finance Ltd.", "sector": "Finance" },
-  "PROFL": { "name": "Progressive Finance Limited", "sector": "Finance" },
-  "RLFL": { "name": "Reliance Finance Ltd.", "sector": "Finance" },
-  "SFC": { "name": "Samjhana Finance Co. Ltd.", "sector": "Finance" },
-  "SFCL": {
-    "name": "Samriddhi Finance Company Limited",
-    "sector": "Finance"
-  },
-  "SIFC": {
-    "name": "Shree Investment Finance Co. Ltd.",
-    "sector": "Finance"
-  },
-  "SFFIL": {
-    "name": "Shrijana Finance (Bittaya Sanstha)",
-    "sector": "Finance"
-  },
-  "SYFL": { "name": "Synergy Finance Ltd.", "sector": "Finance" },
-  "UFL": { "name": "United Finance Ltd.", "sector": "Finance" },
-  "ACLBSL": {
-    "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "AKBSL": {
-    "name": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
-    "sector": "Microfinance"
-  },
-  "AMFI": {
-    "name": "Arambha Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "ALBSL": {
-    "name": "Asha Laghubitta Bittiya Sanstha Ltd",
-    "sector": "Microfinance"
-  },
-  "CHLBS": {
-    "name": "Chautari Laghubitta Bittiya Sanstha Ltd",
-    "sector": "Microfinance"
-  },
-  "CBBL": {
-    "name": "Chhimek Laghubitta Bikas Bank Limited",
-    "sector": "Microfinance"
-  },
-  "CLBSL": {
-    "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "DDBL": {
-    "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "FMDBL": {
-    "name": "First Micro Finance Development Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "FOWAD": {
-    "name": "Forward Community Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "GMFBS": {
-    "name": "Ganapati Microfinance Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "GGBSL": {
-    "name": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "GILB": {
-    "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "GBLBS": {
-    "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "GLBSL": {
-    "name": "Gurans Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "ILBS": {
-    "name": "Infinity Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "JSLBB": {
-    "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "KMCDB": {
-    "name": "Kalika Microcredit Development Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "KMFL": {
-    "name": "Kisan Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "LLBS": {
-    "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "MSMBS": {
-    "name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "MSLB": {
-    "name": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "MERO": {
-    "name": "Mero Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "MMFDB": {
-    "name": "Mirmire Microfinance Development Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "MLBBL": {
-    "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "NADEP": {
-    "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "NBBL": {
-    "name": "NagBeli LaghuBitta Bikas Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "NMFBS": {
-    "name": "National Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "NNLB": {
-    "name": "Naya Nepal Laghubitta Bikas Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "NAGRO": {
-    "name": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "NSEWA": {
-    "name": "Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "NLBBL": {
-    "name": "Nerude Laghubita Bikas Bank Limited",
-    "sector": "Microfinance"
-  },
-  "NICLBSL": {
-    "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "NUBL": {
-    "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "NMBMF": {
-    "name": "NMB Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "NLBLSL": {
-    "name": "NRN Lagubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "RMDC": {
-    "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "RSDC": {
-    "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "SABSL": {
-    "name": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
-    "sector": "Microfinance"
-  },
-  "SDLBSL": {
-    "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SMATA": {
-    "name": "Samata Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "SLBSL": {
-    "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SKBBL": { "name": "Sana Kisan Bikas Bank Ltd.", "sector": "Microfinance" },
-  "SNLB": {
-    "name": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SPARS": {
-    "name": "Sparsha Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SMFDB": {
-    "name": "Summit Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SMB": {
-    "name": "Support Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "SLBS": {
-    "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "SWBBL": {
-    "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SMFBS": {
-    "name": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "SDESI": {
-    "name": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "SLBBL": {
-    "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
-    "sector": "Microfinance"
-  },
-  "UMB": {
-    "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance"
-  },
-  "VLBS": {
-    "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "WOMI": {
-    "name": "Womi Microfinance Bittiya Sanstha Ltd.",
-    "sector": "Microfinance"
-  },
-  "ALICL": {
-    "name": "Asian Life Insurance Co. Limited",
-    "sector": "Life Insurance"
-  },
-  "GLICL": {
-    "name": "Gurans Life Insurance Company Ltd.",
-    "sector": "Life Insurance"
-  },
-  "LICN": { "name": "Life Insurance Co. Nepal", "sector": "Life Insurance" },
-  "NLICL": {
-    "name": "National Life Insurance Co. Ltd.",
-    "sector": "Life Insurance"
-  },
-  "NLIC": {
-    "name": "Nepal Life Insurance Co. Ltd.",
-    "sector": "Life Insurance"
-  },
-  "PLIC": {
-    "name": "Prime Life Insurance Company Limited",
-    "sector": "Life Insurance"
-  },
-  "RLI": {
-    "name": "Reliance Life Insurance Limited",
-    "sector": "Life Insurance"
-  },
-  "SLICL": {
-    "name": "Surya Life Insurance Company Limited",
-    "sector": "Life Insurance"
-  },
-  "AIL": { "name": "Ajod Insurance Limited", "sector": "Non Life Insurance" },
-  "EIC": {
-    "name": "Everest Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "GIC": {
-    "name": "General Insurance Company Nepal Ltd",
-    "sector": "Non Life Insurance"
-  },
-  "HGI": {
-    "name": "Himalayan General Insurance Co. Ltd",
-    "sector": "Non Life Insurance"
-  },
-  "IGI": {
-    "name": "IME General Insurance Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "LGIL": {
-    "name": "Lumbini General Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "NIL": {
-    "name": "Neco Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "NICL": {
-    "name": "Nepal Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "NLG": {
-    "name": "NLG Insurance Company Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "PRIN": { "name": "Prabhu Insurance Ltd.", "sector": "Non Life Insurance" },
-  "PIC": {
-    "name": "Premier Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "PICL": {
-    "name": "Prudential Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "RBCL": {
-    "name": "Rastriya Beema Company Limited",
-    "sector": "Non Life Insurance"
-  },
-  "SIC": {
-    "name": "Sagarmatha Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "SGI": {
-    "name": "Sanima General Insurance Limited",
-    "sector": "Non Life Insurance"
-  },
-  "SICL": {
-    "name": "Shikhar Insurance Co. Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "SIL": {
-    "name": "Siddhartha Insurance Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "UIC": {
-    "name": "United Insurance Co. (Nepal) Ltd.",
-    "sector": "Non Life Insurance"
-  },
-  "AKJCL": {
-    "name": "Ankhu Khola Jalvidhyut Company Ltd",
-    "sector": "Hydro Power"
-  },
-  "API": { "name": "Api Power Company Ltd.", "sector": "Hydro Power" },
-  "AKPL": { "name": "Arun Kabeli Power Ltd.", "sector": "Hydro Power" },
-  "AHPC": {
-    "name": "Arun Valley Hydropower Development Co. Ltd.",
-    "sector": "Hydro Power"
-  },
-  "BARUN": { "name": "Barun Hydropower Co. Ltd.", "sector": "Hydro Power" },
-  "BPCL": { "name": "Butwal Power Company Limited", "sector": "Hydro Power" },
-  "CHL": { "name": "Chhyangdi Hydropower Ltd.", "sector": "Hydro Power" },
-  "CHCL": {
-    "name": "Chilime Hydropower Company Limited",
-    "sector": "Hydro Power"
-  },
-  "DHPL": { "name": "Dibyashwori Hydropower Ltd.", "sector": "Hydro Power" },
-  "GHL": { "name": "Ghalemdi Hydro Limited", "sector": "Hydro Power" },
-  "HDHPC": {
-    "name": "Himal Dolakha Hydropower Company Limited",
-    "sector": "Hydro Power"
-  },
-  "HURJA": {
-    "name": "Himalaya Urja Bikas Company Limited",
-    "sector": "Hydro Power"
-  },
-  "HPPL": { "name": "Himalayan Power Partner Ltd.", "sector": "Hydro Power" },
-  "JOSHI": {
-    "name": "Joshi Hydropower Development Company Ltd",
-    "sector": "Hydro Power"
-  },
-  "KPCL": { "name": "Kalika power Company Ltd", "sector": "Hydro Power" },
-  "KKHC": {
-    "name": "Khanikhola Hydropower Co. Ltd.",
-    "sector": "Hydro Power"
-  },
-  "LEC": {
-    "name": "Liberty Energy Company Limited",
-    "sector": "Hydro Power"
-  },
-  "MEN": { "name": "Mountain Energy Nepal Limited", "sector": "Hydro Power" },
-  "MHNL": { "name": "Mountain Hydro Nepal Limited", "sector": "Hydro Power" },
-  "NHPC": {
-    "name": "National Hydro Power Company Limited",
-    "sector": "Hydro Power"
-  },
-  "NHDL": { "name": "Nepal Hydro Developers Ltd.", "sector": "Hydro Power" },
-  "NGPL": { "name": "Ngadi Group Power Ltd.", "sector": "Hydro Power" },
-  "PMHPL": {
-    "name": "Panchakanya Mai Hydropower Ltd",
-    "sector": "Hydro Power"
-  },
-  "PPCL": {
-    "name": "Panchthar Power Compant Limited",
-    "sector": "Hydro Power"
-  },
-  "RADHI": { "name": "Radhi Bidyut Company Ltd", "sector": "Hydro Power" },
-  "RRHP": {
-    "name": "Rairang Hydropower Development Company Ltd.",
-    "sector": "Hydro Power"
-  },
-  "RHPL": {
-    "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
-    "sector": "Hydro Power"
-  },
-  "RHPC": {
-    "name": "Ridi Hydropower Development Company Ltd.",
-    "sector": "Hydro Power"
-  },
-  "SHPC": { "name": "Sanima Mai Hydropower Ltd.", "sector": "Hydro Power" },
-  "SJCL": {
-    "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
-    "sector": "Hydro Power"
-  },
-  "SSHL": { "name": "Shiva Shree Hydropower Ltd", "sector": "Hydro Power" },
-  "SPDL": {
-    "name": "Synergy Power Development Ltd.",
-    "sector": "Hydro Power"
-  },
-  "UNHPL": { "name": "Union Hydropower Limited", "sector": "Hydro Power" },
-  "UMRH": {
-    "name": "United IDI Mardi RB Hydropower Limited.",
-    "sector": "Hydro Power"
-  },
-  "UMHL": { "name": "United Modi Hydropower Ltd.", "sector": "Hydro Power" },
-  "UPCL": { "name": "UNIVERSAL POWER COMPANY LTD", "sector": "Hydro Power" },
-  "UPPER": {
-    "name": "Upper Tamakoshi Hydropower Ltd",
-    "sector": "Hydro Power"
-  },
-  "AVU": {
-    "name": "Arun Vanaspati Udhyog Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "BSL": {
-    "name": "Birat Shoe Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "BNL": {
-    "name": "Bottlers Nepal (Balaju) Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "BNT": {
-    "name": "Bottlers Nepal (Terai) Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "BSM": {
-    "name": "Butwal Spinning Mills Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "FHL": {
-    "name": "Fleur Himalayan Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "GRU": {
-    "name": "Gorakhkali Rubber Udhyog Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "HBT": {
-    "name": "Harisiddhi Brick And Tiles Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "HDL": {
-    "name": "Himalayan Distillery Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "JSM": {
-    "name": "Jyoti Sinning Mills Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "NBBU": {
-    "name": "Nepal Bitumin And Barrel Udhyog Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "NKU": {
-    "name": "Nepal Khadya Udhyog Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "NLO": {
-    "name": "Nepal Lube Oil Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "NVG": {
-    "name": "Nepal Vanaspati Ghee Udhyog Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "RJM": {
-    "name": "Raghupati Jute Mills Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "SHIVM": {
-    "name": "SHIVAM CEMENTS LTD",
-    "sector": "Manufacturing and Processing"
-  },
-  "SBPP": {
-    "name": "Shree Bhrikuti Pulp And Paper Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "SRS": {
-    "name": "Shree Ram Sugar Mills Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "UNL": {
-    "name": "Unilever Nepal Limited",
-    "sector": "Manufacturing and Processing"
-  },
-  "BBC": { "name": "Bishal Bazar Company Limited", "sector": "Trading" },
-  "NTL": { "name": "Nepal Tading Limited", "sector": "Trading" },
-  "NWC": { "name": "Nepal Welfare Company Limited", "sector": "Trading" },
-  "STC": { "name": "Salt Trading Corporation", "sector": "Trading" },
-  "OHL": { "name": "Oriental Hotels Limited", "sector": "Hotels" },
-  "SHL": { "name": "Soaltee Hotel Limited", "sector": "Hotels" },
-  "TRH": { "name": "Taragaon Regency Hotel Limited", "sector": "Hotels" },
-  "YHL": { "name": "Yak And Yeti Hotel Limited", "sector": "Hotels" },
-  "CIT": { "name": "Citizen Investment Trust", "sector": "Others" },
-  "HIDCL": {
-    "name": "Hydorelectricity Investment and Development Company Ltd",
-    "sector": "Others"
-  },
-  "NTC": { "name": "Nepal Doorsanchar Comapany Limited", "sector": "Others" },
-  "NFD": {
-    "name": "Nepal Film Development Company Limited",
-    "sector": "Others"
-  },
-  "NRIC": { "name": "Nepal Reinsurance Company Limited", "sector": "Others" },
-  "NRN": {
-    "name": "NRN Infrastructure and Development Limited",
-    "sector": "Others"
-  },
-  "CMF1": { "name": "Citizens Mutual Fund -1", "sector": "Mutual Fund" },
-  "CMF2": { "name": "CITIZENS MUTUAL FUND 2", "sector": "Mutual Fund" },
-  "GIMES1": {
-    "name": "Global IME Samunnat Scheme-1",
-    "sector": "Mutual Fund"
-  },
-  "LEMF": { "name": "Laxmi Equity Fund", "sector": "Mutual Fund" },
-  "LUK": { "name": "Laxmi Unnati Kosh", "sector": "Mutual Fund" },
-  "LVF1": { "name": "Laxmi Value Fund-1", "sector": "Mutual Fund" },
-  "NBF2": { "name": "NABIL BALANCED FUND-2", "sector": "Mutual Fund" },
-  "NEF": { "name": "Nabil Equity Fund", "sector": "Mutual Fund" },
-  "NIBLPF": { "name": "NIBL Pragati Fund", "sector": "Mutual Fund" },
-  "NIBSF": { "name": "NIBL Samriddhi Fund 1", "sector": "Mutual Fund" },
-  "NICBF": { "name": "NIC Asia Balanced Fund", "sector": "Mutual Fund" },
-  "NICGF": { "name": "NIC Asia Growth Fund", "sector": "Mutual Fund" },
-  "NMB50": { "name": "NMB 50", "sector": "Mutual Fund" },
-  "NMBHF1": { "name": "NMB Hybrid Fund L-1", "sector": "Mutual Fund" },
-  "SAEF": { "name": "Sanima Equity Fund", "sector": "Mutual Fund" },
-  "SEF": { "name": "Siddhartha Equity Fund", "sector": "Mutual Fund" },
-  "SEOS": {
-    "name": "Siddhartha Equity Orineted Scheme",
-    "sector": "Mutual Fund"
-  },
-  "SIGS2": {
-    "name": "Siddhartha Investment Growth Scheme - 2",
-    "sector": "Mutual Fund"
-  },
-  "SFMF": { "name": "Sunrise First Mutual Fund", "sector": "Mutual Fund" },
-  "BOKD2079": { "name": "8% BOK Debenture 2079", "sector": "Debentures" },
-  "CZIBD86": {
-    "name": "10.25% Citizens Bank Debenture 2086",
-    "sector": "Debentures"
-  },
-  "EBLD2078": { "name": "8% EBL Debenture 2078", "sector": "Debentures" },
-  "GBILD80/81": { "name": "", "sector": "Debentures" },
-  "HBLD83": {
-    "name": "10% Himalayan Bank Debenture 2083",
-    "sector": "Debentures"
-  },
-  "KBLD86": { "name": "10.25% KBL Debenture 2086", "sector": "Debentures" },
-  "NMBD2085": { "name": "10 % NMB DEBENTURE 2085", "sector": "Debentures" },
-  "NBLD82": { "name": "10% Nabil Debenture 2082", "sector": "Debentures" },
-  "NBBD2085": {
-    "name": "10.25% NBBL Debenture 2085",
-    "sector": "Debentures"
-  },
-  "NIBD2082": {
-    "name": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
-    "sector": "Debentures"
-  },
-  "NICAD8182": {
-    "name": "NIC Asia Debenture 2081/82",
-    "sector": "Debentures"
-  },
-  "NICAD8283": {
-    "name": "11% NIC Asia Debenture 082/83",
-    "sector": "Debentures"
-  },
-  "NICAD 85/86": {
-    "name": "NIC Asia Debenture 2085/86",
-    "sector": "Debentures"
-  },
-  "NICD83/84": {
-    "name": "10.25% NIC Asia Debenture 2083/84",
-    "sector": "Debentures"
-  },
-  "PBLD84": {
-    "name": "10% Prabhu Bank Debenture 2084",
-    "sector": "Debentures"
-  },
-  "PBLD86": {
-    "name": "10.25% Prabhu Bank Debenture 2086",
-    "sector": "Debentures"
-  },
-  "SAND2085": {
-    "name": "Sanima Bank Limited Debenture",
-    "sector": "Debentures"
-  },
-  "SBIBD86": {
-    "name": "10% Nepal SBI Bank Debenture 2086",
-    "sector": "Debentures"
-  },
-  "SBLD83": { "name": "10.25% SBL Debenture 2083", "sector": "Debentures" },
-  "SBLD84": { "name": "8.5% SBL Debenture 2084", "sector": "Debentures" },
-  "SRBLD83": {
-    "name": "10.25% Sunrise Bank Debenture 2083",
-    "sector": "Debentures"
-  },
-  "SRD80": { "name": "10% Sunrise Debenture 2080", "sector": "Debentures" },
-  "GBD80/81": {
-    "name": "10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
-    "sector": "Debentures"
-  },
-  "SBLD2082": { "name": "10.50% SBL Debenture 2082", "sector": "Debentures" }
-}
+[
+  {
+    "NABIL": {
+      "name": "Nabil Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NIB": {
+      "name": "Nepal Investment Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SCB": {
+      "name": "Standard Chartered Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "HBL": {
+      "name": "Himalayan Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SBI": {
+      "name": "Nepal SBI Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NBB": {
+      "name": "Nepal Bangladesh Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "EBL": {
+      "name": "Everest Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "BOKL": {
+      "name": "Bank of Kathmandu Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NICA": {
+      "name": "NIC Asia Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MBL": {
+      "name": "Machhapuchhre Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "LBL": {
+      "name": "Laxmi Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "KBL": {
+      "name": "Kumari Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NCCB": {
+      "name": "Nepal Credit And Commercial Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SBL": {
+      "name": "Siddhartha Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SHL": {
+      "name": "Soaltee Hotel Limited",
+      "status": "Active",
+      "sector": "Hotels"
+    }
+  },
+  {
+    "BPCL": {
+      "name": "Butwal Power Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "CHCL": {
+      "name": "Chilime Hydropower Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "OHL": {
+      "name": "Oriental Hotels Limited",
+      "status": "Active",
+      "sector": "Hotels"
+    }
+  },
+  {
+    "NUBL": {
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "CBBL": {
+      "name": "Chhimek Laghubitta Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NABIL": {
+      "name": "Nabil Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NIB": {
+      "name": "Nepal Investment Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SCB": {
+      "name": "Standard Chartered Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "HBL": {
+      "name": "Himalayan Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SBI": {
+      "name": "Nepal SBI Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NBB": {
+      "name": "Nepal Bangladesh Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "EBL": {
+      "name": "Everest Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "BOKL": {
+      "name": "Bank of Kathmandu Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NICA": {
+      "name": "NIC Asia Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MBL": {
+      "name": "Machhapuchhre Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "LBL": {
+      "name": "Laxmi Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "KBL": {
+      "name": "Kumari Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NCCB": {
+      "name": "Nepal Credit And Commercial Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SBL": {
+      "name": "Siddhartha Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SHL": {
+      "name": "Soaltee Hotel Limited",
+      "status": "Active",
+      "sector": "Hotels"
+    }
+  },
+  {
+    "BPCL": {
+      "name": "Butwal Power Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "CHCL": {
+      "name": "Chilime Hydropower Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "OHL": {
+      "name": "Oriental Hotels Limited",
+      "status": "Active",
+      "sector": "Hotels"
+    }
+  },
+  {
+    "NUBL": {
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "CBBL": {
+      "name": "Chhimek Laghubitta Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SANIMA": {
+      "name": "Sanima Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NLICL": {
+      "name": "National Life Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "HGI": {
+      "name": "Himalayan General Insurance Co. Ltd",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "EIC": {
+      "name": "Everest Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "NIL": {
+      "name": "Neco Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "PRIN": {
+      "name": "Prabhu Insurance Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SIC": {
+      "name": "Sagarmatha Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "PICL": {
+      "name": "Prudential Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "LGIL": {
+      "name": "Lumbini General Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SICL": {
+      "name": "Shikhar Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "GUFL": {
+      "name": "Gurkhas Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "CIT": {
+      "name": "Citizen Investment Trust",
+      "status": "Active",
+      "sector": "Others"
+    }
+  },
+  {
+    "NLIC": {
+      "name": "Nepal Life Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "GFCL": {
+      "name": "Goodwill Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SIFC": {
+      "name": "Shree Investment Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "CFCL": {
+      "name": "Central Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "JFL": {
+      "name": "Janaki Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "PRVU": {
+      "name": "Prabhu Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "GMFIL": {
+      "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SWBBL": {
+      "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "ICFC": {
+      "name": "ICFC Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "EDBL": {
+      "name": "Excel Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SIL": {
+      "name": "Siddhartha Insurance Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "NTC": {
+      "name": "Nepal Doorsanchar Comapany Limited",
+      "status": "Active",
+      "sector": "Others"
+    }
+  },
+  {
+    "PFL": {
+      "name": "Pokhara Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NMB": {
+      "name": "NMB Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "GBIME": {
+      "name": "Global IME Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "CZBIL": {
+      "name": "Citizen Bank International Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SRBL": {
+      "name": "Sunrise Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "AHPC": {
+      "name": "Arun Valley Hydropower Development Co. Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "ALICL": {
+      "name": "Asian Life Insurance Co. Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "PCBL": {
+      "name": "Prime Commercial Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "PLIC": {
+      "name": "Prime Life Insurance Company Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "MLBL": {
+      "name": "Mahalaxmi Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SLICL": {
+      "name": "Surya Life Insurance Company Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "GBBL": {
+      "name": "Garima Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "JBBL": {
+      "name": "Jyoti Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "GLICL": {
+      "name": "Gurans Life Insurance Company Ltd.",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "KSBBL": {
+      "name": "Kamana Sewa Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "MPFL": {
+      "name": "Multipurpose Finance Company Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SADBL": {
+      "name": "Shangrila Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SHINE": {
+      "name": "Shine Resunga Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "MNBBL": {
+      "name": "Muktinath Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "FMDBL": {
+      "name": "First Micro Finance Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NLBBL": {
+      "name": "Nerude Laghubita Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "ADBL": {
+      "name": "Agriculture Development Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SMFDB": {
+      "name": "Summit Micro Finance Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "CBL": {
+      "name": "Civil Bank Ltd",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "LLBS": {
+      "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NBL": {
+      "name": "Nepal Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NLG": {
+      "name": "NLG Insurance Company Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SINDU": {
+      "name": "Sindhu Bikash Bank Ltd",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "MEGA": {
+      "name": "Mega Bank Nepal Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SKBBL": {
+      "name": "Sana Kisan Bikas Bank Ltd",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RMDC": {
+      "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GBLBS": {
+      "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SNLB": {
+      "name": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "CCBL": {
+      "name": "Century Commercial Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "RHPC": {
+      "name": "Ridi Hydropower Development Company Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "MMFDB": {
+      "name": "Mirmire Microfinance Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NMBMF": {
+      "name": "NMB Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GILB": {
+      "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NLBSL": {
+      "name": "NRN Lagubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "JSLBB": {
+      "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "VLBS": {
+      "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MLBBL": {
+      "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MERO": {
+      "name": "Mero Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MSLB": {
+      "name": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SLBS": {
+      "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NGPL": {
+      "name": "Ngadi Group Power Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NMFBS": {
+      "name": "National Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RSDC": {
+      "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "UPPER": {
+      "name": "Upper Tamakoshi Hydropower Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SJCL": {
+      "name": "SANJEN JALAVIDHYUT COMPANY LTD",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SABSL": {
+      "name": "Sabaiko Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "AKBSLPO": {
+      "name": "Adhikhola Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SAPDBL": {
+      "name": "Saptakoshi Development bank Ltd",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SAPDBLP": {
+      "name": "Saptakoshi Development bank Ltd",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "HDHPC": {
+      "name": "Himal Dolakha Hydropower Com. Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NRIC": {
+      "name": "Nepal Reinsurance Company Limited",
+      "status": "Active",
+      "sector": "Others"
+    }
+  },
+  {
+    "AIL": {
+      "name": "Ajod Insurance Ltd",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SDLBSL": {
+      "name": "Sadhana Laghubitta Bittyia Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SDLBSLP": {
+      "name": "Sadhana Laghubitta Bittyia Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NRN": {
+      "name": "NRN Infrastructure and Development Limited",
+      "status": "Active",
+      "sector": "Others"
+    }
+  },
+  {
+    "RLI": {
+      "name": "Reliance Life Insurance Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "LEC": {
+      "name": "Liberty Energy Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "GIC": {
+      "name": "General Insurance Company Nepal Ltd",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SSHL": {
+      "name": "Shiva Shree Hydropower Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SGI": {
+      "name": "Sanima General Insurance Ltd",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SLBSP": {
+      "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MEN": {
+      "name": "Mountain Energy Nepal Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "UMRH": {
+      "name": "United Idi Mardi & RB Hydropower Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SLBSL": {
+      "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SLBSLPO": {
+      "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GHL": {
+      "name": "Ghalemdi Hydro Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "ALBSL": {
+      "name": "Asha Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "ALBSLP": {
+      "name": "Asha Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SHIVM": {
+      "name": "Shivam Cements Limited",
+      "status": "Active",
+      "sector": "Manufacturing And Processing"
+    }
+  },
+  {
+    "UPCL": {
+      "name": "Universal Power Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "MHNL": {
+      "name": "Mountain Hydro Nepal Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "PPCL": {
+      "name": "Panchthar Power Company Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SPARSPO": {
+      "name": "Sparsha Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GMFBS": {
+      "name": "Ganapati Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NAGROP": {
+      "name": "Nepal Agro Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GMFBSP": {
+      "name": "Ganapati Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "HURJA": {
+      "name": "Himalaya Urja Bikas Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "GLBSL": {
+      "name": "Gurans Laghubitta Bittiya Sanstha Ltd",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SMFBS": {
+      "name": "Swabhumaan Laghubitta Bittiya Sanstha Ltd",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "UNHPL": {
+      "name": "Union Hydropower Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "ILBS": {
+      "name": "Infinity Laghubitta Bittiya Sastha Ltd",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RHPL": {
+      "name": "Rasuwagadhi Hydropower Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "AKJCL": {
+      "name": "Ankhu Khola Jalvidhyut Company Limited",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "JOSHI": {
+      "name": "Joshi Hydropower Development Company Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "ACLBSLP": {
+      "name": "Aarambha Chautari Laghubitta Bittya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RSDCP": {
+      "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NMFBSP": {
+      "name": "National Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GRDBL": {
+      "name": "Green Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "GRDBLP": {
+      "name": "Green Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "KKHC": {
+      "name": "Khanikhola Hydropower Co. Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NMBHF1": {
+      "name": "NMB Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NEF": {
+      "name": "Nabil Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "DHPL": {
+      "name": "Dibyashwori Hydropower Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NIBLPF": {
+      "name": "Nepal Investment Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "AKPL": {
+      "name": "Arun Kabeli Power Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "FOWAD": {
+      "name": "Forward Community Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SPDL": {
+      "name": "Synergy Power Development Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "UMHL": {
+      "name": "United Modi Hydropower Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SMATAP": {
+      "name": "Samata Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "CORBLP": {
+      "name": "Corporate Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "LEMF": {
+      "name": "Laxmi Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "CHL": {
+      "name": "Chhyangdi Hydropower Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "HPPL": {
+      "name": "Himalayan Power Partner Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NHDL": {
+      "name": "Nepal Hydro Developers Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "SEF": {
+      "name": "Siddhartha Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SMB": {
+      "name": "Support Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SAEF": {
+      "name": "Sanima Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "USLB": {
+      "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "USLBP": {
+      "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RADHI": {
+      "name": "Radhi Bidyut Company Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NICGF": {
+      "name": "NIC Asia Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "CMF1": {
+      "name": "Citizen Bank International Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NSEWAP": {
+      "name": "Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RRHP": {
+      "name": "Rairang Hydropower Development Company Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "NADEP": {
+      "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NADEPP": {
+      "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "PMHPL": {
+      "name": "Panchakanya Mai Hydropower Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "KPCL": {
+      "name": "Kalika power Company Ltd",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "MEROPO": {
+      "name": "Mero Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "HIDCL": {
+      "name": "Hydorelectricity Investment and Development Company Ltd",
+      "status": "Active",
+      "sector": "Others"
+    }
+  },
+  {
+    "UFILPO": {
+      "name": "Unique Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "PFILPO": {
+      "name": "Prudential Finance Company Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "TDBLPO": {
+      "name": "Tourism Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NICLPO": {
+      "name": "Nepal Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "MSMBS": {
+      "name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "CLBSL": {
+      "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "LICNPO": {
+      "name": "Life Insurance Co. Nepal",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "API": {
+      "name": "Api Power Company Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "CBBLPO": {
+      "name": "Chhimek Laghubitta Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "HGIPO": {
+      "name": "Himalayan General Insurance Co. Ltd",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "PLICPO": {
+      "name": "Prime Life Insurance Company Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "EICPO": {
+      "name": "Everest Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "LGILPO": {
+      "name": "Lumbini General Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "MLBBLP": {
+      "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SADBLP": {
+      "name": "Shangrila Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "INDBLP": {
+      "name": "International Development Bank Ltd",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "MMFDBP": {
+      "name": "Mirmire Microfinance Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GBLBSP": {
+      "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "PICPO": {
+      "name": "Premier Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SAFLPO": {
+      "name": "Sagarmatha Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "VLBSPO": {
+      "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "RBBBLP": {
+      "name": "Raptibheri Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "KCDBLP": {
+      "name": "Kalinchowk Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "JSLBBP": {
+      "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "WOMIPO": {
+      "name": "Womi Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SLBBLP": {
+      "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "FMDBLP": {
+      "name": "First Micro Finance Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NMBMFP": {
+      "name": "NMB Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MMDBLP": {
+      "name": "Mount Makalu Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "ILFCMP": {
+      "name": "Civil Bank Ltd",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "UICPO": {
+      "name": "United Insurance Co. (Nepal) Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "KKBLPO": {
+      "name": "Kakre Bihar Bikash Bank Ltd",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "BFCLPO": {
+      "name": "Bhaktapur Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "MFILPO": {
+      "name": "Manjushree Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "GILBPO": {
+      "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SHBLPO": {
+      "name": "Sahara Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NLBSLP": {
+      "name": "NRN Lagubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MSMBSP": {
+      "name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MPFLPO": {
+      "name": "Multipurpose Finance Company Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SAJHAP": {
+      "name": "Sajha Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "KRBLPO": {
+      "name": "Karnali Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "GIMES1": {
+      "name": "Global IME Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "INDBPO": {
+      "name": "Innovative Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NLGPO": {
+      "name": "NLG Insurance Company Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "BARUN": {
+      "name": "Barun Hydropower Co. Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "HAMAPO": {
+      "name": "Hama Merchant & Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "EDBLPO": {
+      "name": "Excel Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "GMFILP": {
+      "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NILPO": {
+      "name": "Neco Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SICLPO": {
+      "name": "Shikhar Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "DDBLPO": {
+      "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MDBPO": {
+      "name": "Miteri Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "KMCDB": {
+      "name": "Kalika Microcredit Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "EBLPO": {
+      "name": "Everest Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SEWAPO": {
+      "name": "Sewa Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "ALICLP": {
+      "name": "Asian Life Insurance Co. Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "RLFL": {
+      "name": "Reliance Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NLICP": {
+      "name": "Nepal Life Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "PRINPO": {
+      "name": "Prabhu Insurance Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "SHPC": {
+      "name": "Sanima Mai Hydropower Ltd.",
+      "status": "Active",
+      "sector": "Hydro Power"
+    }
+  },
+  {
+    "JBBLPO": {
+      "name": "Jyoti Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SLICLP": {
+      "name": "Surya Life Insurance Company Limited",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "NLICLP": {
+      "name": "National Life Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "HBLPO": {
+      "name": "Himalayan Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MBBLPO": {
+      "name": "Mahakali Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SETIPO": {
+      "name": "Seti Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SRBLPO": {
+      "name": "Sunrise Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "LFLCPO": {
+      "name": "Lumbini Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SICPO": {
+      "name": "Sagarmatha Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "MLBLPO": {
+      "name": "Mahalaxmi Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "GLICLP": {
+      "name": "Gurans Life Insurance Company Ltd.",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "ARDBLP": {
+      "name": "Araniko Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "GBBLPO": {
+      "name": "Garima Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "LBBLPO": {
+      "name": "Lumbini Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SILPO": {
+      "name": "Siddhartha Insurance Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "PRVUPO": {
+      "name": "Prabhu Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "RBCLPO": {
+      "name": "Rastriya Beema Company Limited",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "IGIPO": {
+      "name": "IME General Insurance Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "NIBSF1": {
+      "name": "Nepal Investment Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "CSDBLP": {
+      "name": "Cosmos Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "MNBBLP": {
+      "name": "Muktinath Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "CNDBLP": {
+      "name": "Country Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "EKBLPO": {
+      "name": "Ekata Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SNLBP": {
+      "name": "Sarathi Nepal Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "LLBSPO": {
+      "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "PFCPO": {
+      "name": "Paschimanchal Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "BUDBLP": {
+      "name": "Business Universal Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "JHBLPO": {
+      "name": "Jhimruk Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "PICLPO": {
+      "name": "Prudential Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "RLFLPO": {
+      "name": "Reliance Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NFSPO": {
+      "name": "Nepal Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SINDUP": {
+      "name": "Sindhu Bikash Bank Ltd",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "CBLPO": {
+      "name": "Civil Bank Ltd",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SCBPO": {
+      "name": "Standard Chartered Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "CCBLPO": {
+      "name": "Century Commercial Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MEGAPO": {
+      "name": "Mega Bank Nepal Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "RMDCPO": {
+      "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "ALDBLP": {
+      "name": "Alpine Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NLBBLP": {
+      "name": "Nerude Laghubita Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "MSBBLP": {
+      "name": "Manaslu Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SMFDBP": {
+      "name": "Summit Micro Finance Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GABLPO": {
+      "name": "Gaumukhee Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "APEXPO": {
+      "name": "Apex Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NBSLPO": {
+      "name": "Namaste Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "PRDBLP": {
+      "name": "Professional Diyalo Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SHINEP": {
+      "name": "Shine Resunga Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SKBBLP": {
+      "name": "Sana Kisan Bikas Bank Ltd",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "NUBLPO": {
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "PADBLP": {
+      "name": "Pacific Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "CFCLPO": {
+      "name": "Central Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "KSBBLP": {
+      "name": "Kamana Sewa Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "KMCDBP": {
+      "name": "Kalika Microcredit Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "BGDBLP": {
+      "name": "Bagmati Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "REDBLP": {
+      "name": "Reliable Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "PCBLP": {
+      "name": "Prime Commercial Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SLBBL": {
+      "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SFLPO": {
+      "name": "Siddharth Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "KDBLPO": {
+      "name": "Kasthamandap Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SUBBLP": {
+      "name": "Subhechha Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "KAFILP": {
+      "name": "Kaski Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "GBIMEP": {
+      "name": "Global IME Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MFIL": {
+      "name": "Manjushree Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "ICFCPO": {
+      "name": "ICFC Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "CZBILP": {
+      "name": "Citizen Bank International Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MFLPO": {
+      "name": "Maha Laxmi Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NCMPO": {
+      "name": "NIDC Capital Markets Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "OFLPO": {
+      "name": "Om Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "UFCLPO": {
+      "name": "Union Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "BLDBLP": {
+      "name": "Biratlaxmi Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "CEDBLP": {
+      "name": "Clean Energy Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SODBLP": {
+      "name": "Society Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "BBBLNP": {
+      "name": "Bagheshwori Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "PRFLPO": {
+      "name": "Prabhu Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SUPRMP": {
+      "name": "Supreme Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "TBBLP": {
+      "name": "Triveni Bikas Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NIBPO": {
+      "name": "Nepal Investment Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SBLPO": {
+      "name": "Siddhartha Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "CORBL": {
+      "name": "Corporate Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SIFCPO": {
+      "name": "Shree Investment Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NEFLPO": {
+      "name": "Nepal Express Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "KRBL": {
+      "name": "Karnali Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NNFCPO": {
+      "name": "Narayani National Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "LBBL": {
+      "name": "Lumbini Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "PSDBLP": {
+      "name": "Civil Bank Ltd",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "PFLPO": {
+      "name": "Pokhara Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NMBPO": {
+      "name": "NMB Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "IDBLPO": {
+      "name": "Infrastructure Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SBBLPO": {
+      "name": "Sanima Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NABBPO": {
+      "name": "Nepal Aawas Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "MDB": {
+      "name": "Miteri Development Bank Limited",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "NBBPO": {
+      "name": "Nepal Bangladesh Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "UFLPO": {
+      "name": "United Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "PROFLP": {
+      "name": "ProgressiveFinance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "GFCLPO": {
+      "name": "Goodwill Finance Co. Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "PDBLPO": {
+      "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "SBIPO": {
+      "name": "Nepal SBI Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "UFL": {
+      "name": "United Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NICAP": {
+      "name": "NIC Asia Bank Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "GRANDP": {
+      "name": "Grand Bank Nepal Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "RMBFPO": {
+      "name": "Nepal Credit And Commercial Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "NSMPO": {
+      "name": "Nepal Share Markets Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SWBBLP": {
+      "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+      "status": "Active",
+      "sector": "Microfinance"
+    }
+  },
+  {
+    "GUFLPO": {
+      "name": "Gurkhas Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NCCBPO": {
+      "name": "Nepal Credit And Commercial Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "EFLPO": {
+      "name": "Everest Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "PROFL": {
+      "name": "ProgressiveFinance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "BFCPO": {
+      "name": "Best Finance Company Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "MBLPO": {
+      "name": "Machhapuchhre Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "KBLPO": {
+      "name": "Kumari Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "LUBLPO": {
+      "name": "Lumbini Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "LBLPO": {
+      "name": "Laxmi Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "BOKLPO": {
+      "name": "Bank of Kathmandu Ltd.",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "MDBLPO": {
+      "name": "Mahalaxmi Bikas Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "JFLPO": {
+      "name": "Janaki Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "ACEDPO": {
+      "name": "Ace Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "SFCLP": {
+      "name": "Samriddhi Finance Company Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "SDBLPO": {
+      "name": "Siddhartha Development Bank Ltd.",
+      "status": "Active",
+      "sector": "Development Banks"
+    }
+  },
+  {
+    "PFLBSP": {
+      "name": "Patan Finance Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "EBLCP": {
+      "name": "Everest Bank Limited",
+      "status": "Active",
+      "sector": "Commercial Banks"
+    }
+  },
+  {
+    "SFCL": {
+      "name": "Samriddhi Finance Company Limited",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "HDL": {
+      "name": "Himalayan Distillery Limited",
+      "status": "Active",
+      "sector": "Manufacturing And Processing"
+    }
+  },
+  {
+    "LICN": {
+      "name": "Life Insurance Co. Nepal",
+      "status": "Active",
+      "sector": "Life Insurance"
+    }
+  },
+  {
+    "BNT": {
+      "name": "Bottlers Nepal (Terai) Limited",
+      "status": "Active",
+      "sector": "Manufacturing And Processing"
+    }
+  },
+  {
+    "UNL": {
+      "name": "Unilever Nepal Limited",
+      "status": "Active",
+      "sector": "Manufacturing And Processing"
+    }
+  },
+  {
+    "BFC": {
+      "name": "Best Finance Company Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "NFS": {
+      "name": "Nepal Finance Ltd.",
+      "status": "Active",
+      "sector": "Finance"
+    }
+  },
+  {
+    "BNL": {
+      "name": "Bottlers Nepal (Balaju) Limited",
+      "status": "Active",
+      "sector": "Manufacturing And Processing"
+    }
+  },
+  {
+    "NLO": {
+      "name": "Nepal Lube Oil Limited",
+      "status": "Active",
+      "sector": "Manufacturing And Processing"
+    }
+  },
+  {
+    "IGI": {
+      "name": "IME General Insurance Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "PIC": {
+      "name": "Premier Insurance Co. Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  },
+  {
+    "UIC": {
+      "name": "United Insurance Co. (Nepal) Ltd.",
+      "status": "Active",
+      "sector": "Non Life Insurance"
+    }
+  }
+]
