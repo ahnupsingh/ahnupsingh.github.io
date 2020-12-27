@@ -2658,5 +2658,143 @@
       "sector": "Non Life Insurance",
       "status": "Active"
     }
+  },
+  {
+    "NMBD2085": {
+      "name": "10 % NMB DEBENTURE 2085",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "HBLD83": {
+      "name": "10% Himalayan Bank Debenture 2083",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NBLD82": {
+      "name": "10% Nabil Debenture 2082",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SBIBD86": {
+      "name": "10% Nepal SBI Bank Debenture 2086",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "PBLD84": {
+      "name": "10% Prabhu Bank Debenture 2084",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SRD80": {
+      "name": "10% Sunrise Debenture 2080",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "CIZBD86": {
+      "name": "10.25% Citizens Bank Debenture 2086",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "GBD80/81": {
+      "name": "10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "KBLD86": {
+      "name": "10.25% KBL Debenture 2086",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NBBD2085": {
+      "name": "10.25% NBBL Debenture 2085",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NICD83/84": {
+      "name": "10.25% NIC Asia Debenture 2083/84",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "PBLD86": {
+      "name": "10.25% Prabhu Bank Debenture 2086",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SBLD83": {
+      "name": "10.25% SBL Debenture 2083",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SRBLD83": {
+      "name": "10.25% Sunrise Bank Debenture 2083",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NIBD2082": {
+      "name": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SBLD2082": {
+      "name": "10.50% SBL Debenture 2082",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NICAD8283": {
+      "name": "11% NIC Asia Debenture 082/83",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "BOKD2079": {
+      "name": "8% BOK Debenture 2079",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "EBLD2078": {
+      "name": "8% EBL Debenture 2078",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SBLD84": {
+      "name": "8.5% SBL Debenture 2084",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NICAD8182": {
+      "name": "NIC Asia Debenture 2081/82",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "NICAD 85/86": {
+      "name": "NIC Asia Debenture 2085/86",
+      "sector": "Corporate Debenture"
+    }
+  },
+  {
+    "SAND2085": {
+      "name": "Sanima Bank Limited Debenture",
+      "sector": "Corporate Debenture"
+    }
   }
 ]
