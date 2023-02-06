@@ -1,20 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.43c86f1c.css",
-    "main.js": "/static/js/main.c44ec5fa.js",
-    "static/media/reception.jpg": "/static/media/reception.a52bfa7b682021f1099e.jpg",
+    "main.js": "/static/js/main.98080aaf.js",
+    "static/media/anup.pdf": "/static/media/anup.98c3ff4daf6e2792c83e.pdf",
+    "static/media/profile-image.jpg": "/static/media/profile-image.4e02423cf9ec67c564bf.jpg",
     "static/media/whatsapp.png": "/static/media/whatsapp.bbb3bca6d00f2233659b.png",
-    "static/media/hearts.png": "/static/media/hearts.6e909f5b4439768c7660.png",
-    "static/media/ballons.png": "/static/media/ballons.0b23cc4fd510cad310f3.png",
-    "static/media/flowers.png": "/static/media/flowers.9d222bc51bf34551c269.png",
-    "static/media/anuppriya.png": "/static/media/anuppriya.80d3fbbfb13cbc8708e7.png",
-    "static/media/wine.png": "/static/media/wine.ece304e59be8a937e6a1.png",
-    "static/media/dance.png": "/static/media/dance.f1ae6ee0324b545a9d82.png",
-    "static/media/party.png": "/static/media/party.631dc9bcc6d1810306d1.png",
-    "static/media/anuppriya-icon.png": "/static/media/anuppriya-icon.68f2773790c1445f6c8b.png",
-    "static/media/ring.png": "/static/media/ring.e4059cc0f9eb8633b698.png",
-    "static/media/suit.png": "/static/media/suit.2617acba759022490e39.png",
-    "static/media/dinner.png": "/static/media/dinner.e65cb44979d987b78269.png",
     "static/media/discord.png": "/static/media/discord.ef8d9c88e020507818c2.png",
     "static/media/github.png": "/static/media/github.a855c3975c028d8069f5.png",
     "static/media/cardIcon.png": "/static/media/cardIcon.62295fd51e27d2906ec5.png",
@@ -27,10 +17,10 @@
     "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
     "static/media/external-link-icon.svg": "/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.43c86f1c.css.map": "/static/css/main.43c86f1c.css.map",
-    "main.c44ec5fa.js.map": "/static/js/main.c44ec5fa.js.map"
+    "main.98080aaf.js.map": "/static/js/main.98080aaf.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.c44ec5fa.js"
+    "static/js/main.98080aaf.js"
   ]
 }
